@@ -1,0 +1,25 @@
+ .doorshview-main{
+  position:relative;
+  z-index: 0;
+  background:
+  }
+ .doordashview-1{
+    height: 0px;
+    margin-top: -64px;
+    position: absolute;
+  }
+  .doordashview-2{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:center;
+  }
+  .doordashview-3{
+    height:650px;
+  }
+  .doordashview-4{
+   margin:24px 0px;
+  }
+  .doordashview-5{  
+   max-width:100%
+  }
